@@ -23,7 +23,3 @@ Aqui, construiremos a solução integrada, conectando o SIEM, a IA e a plataform
 ---
 
 Este projeto é ideal para equipes de segurança que desejam implementar uma solução poderosa de SOC utilizando apenas ferramentas de código aberto, combinando o poder da inteligência artificial com práticas avançadas de gerenciamento de incidentes.
-
-
-
-#aaa

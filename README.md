@@ -16,7 +16,7 @@ Com um ambiente orquestrado e inteligente, você pode focar sua criatividade e t
 ### Arquitetura do Projeto
 ![Workflow](https://github.com/carlossilva9867/soc-opensource-ia/blob/main/IMG/diagrama.png)
 
-A arquitetura do projeto foi planejada para maximizar a eficiência e a segurança. A inteligência artificial é treinada localmente para garantir que dados sensíveis sejam protegidos, ao mesmo tempo em que se aproveita ao máximo as capacidades de orquestração e automação.
+Com um ambiente orquestrado e inteligente, você pode focar sua criatividade e tempo em tarefas mais estratégicas, aumentando a eficiência e a eficácia das operações de segurança.
 
 ### Requisitos
 - 4x Máquinas virtuais para rodar o ambiente

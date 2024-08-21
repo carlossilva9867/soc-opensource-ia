@@ -1,4 +1,6 @@
 # Docker-compose
+### Instalação do elastic-stack Docker
+
 ```
 version: "3"
 services:
@@ -49,7 +51,27 @@ services:
       - TELEMETRY_ENABLED=false
 ```
 
-# Após instalação do compose
+### Pós a Instalação do Compose
+É necessário ajustar o parâmetro encryption-keys no Kibana. Para isso, identifique o ID do contêiner que está rodando o Kibana e gere as chaves de criptografia necessárias.
+
+Passos para Configuração
+Liste os contêineres para encontrar o ID do contêiner com o nome kibana:
+
 ```
-docker exec -it  f6007ae64b5a ./bin/kibana-encryption-keys generate
+docker ps
 ```
+Gere o arquivo de chaves de criptografia:
+
+
+```
+docker exec -it [ID_KIBANA] ./bin/kibana-encryption-keys generate
+Configure as novas chaves no arquivo de configuração kibana.yml:
+```
+
+```
+docker exec -it [ID_KIBANA] /bin/bash -c "echo -e '\nxpack.encryptedSavedObjects.encryptionKey: ecaafedbd4daf82cf92f90d0f7b4fca3\nxpack.reporting.encryptionKey: c2e97cfc7218bb0ff79c63a0be0495de\nxpack.security.encryptionKey: 7e5528384de8ae29cfaf76bb5b928cf2\n' >> /config/kibana.yml"
+```
+
+**Substitua [ID_KIBANA] pelo ID real do contêiner do Kibana obtido no passo anterior**
+
+Referencia:

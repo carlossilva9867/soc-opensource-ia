@@ -5,7 +5,7 @@ Neste projeto, o alerta gerado pela ferramenta de segurança SIEM é enviado par
 No futuro, com playbooks e runbooks alinhados ao modelo de IA, essa tecnologia pode auxiliar na tomada de decisões em cenários específicos, conforme o treinamento que recebeu. É possível, por exemplo, executar ações como isolar um host da rede, redefinir senhas ou bloquear um usuário. Uma vez que você possui um ambiente orquestrado e inteligente, a criatividade e o tempo se tornam os únicos limites para explorar as inúmeras possibilidades.
 
 ### Arquitetura do Projeto
-![Workflow](https://github.com/carlossilva9867/soc-opensource-ia/IMG/diagrama.png)
+![Workflow](https://github.com/carlossilva9867/soc-opensource-ia/blob/main/IMG/diagrama.png)
 
 A arquitetura do projeto foi planejada para maximizar a eficiência e a segurança. A inteligência artificial é treinada localmente para garantir que dados sensíveis sejam protegidos, ao mesmo tempo em que se aproveita ao máximo as capacidades de orquestração e automação.
 

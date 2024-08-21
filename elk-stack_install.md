@@ -48,3 +48,8 @@ services:
       # telemetry data to kibana developers
       - TELEMETRY_ENABLED=false
 ```
+
+# Após instalação do compose
+```
+docker exec -it  f6007ae64b5a ./bin/kibana-encryption-keys generate
+```

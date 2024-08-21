@@ -13,7 +13,8 @@ A arquitetura do projeto foi planejada para maximizar a eficiência e a seguran�
 - 4x Máquinas virtuais para rodar o ambiente
 - Acesso à internet para atualização de pacotes e comunicação com plataformas externas
 
-### Parte I: Instalação
+### [Parte I: Instalação](https://github.com/carlossilva9867/soc-opensource-ia/tree/main/PARTE%201%20-%20INSTALACAO)
+
 Nesta seção, detalharemos os passos necessários para instalar todas as ferramentas e configurar o ambiente.
 
 ### Parte II: Construção [EM DESENVOLVIMENTO]
@@ -22,3 +23,7 @@ Aqui, construiremos a solução integrada, conectando o SIEM, a IA e a plataform
 ---
 
 Este projeto é ideal para equipes de segurança que desejam implementar uma solução poderosa de SOC utilizando apenas ferramentas de código aberto, combinando o poder da inteligência artificial com práticas avançadas de gerenciamento de incidentes.
+
+
+
+#aaa

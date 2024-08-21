@@ -1,8 +1,17 @@
-# SOC Open Source com IA
 
-Neste projeto, o alerta gerado pela ferramenta de segurança SIEM é enviado para uma plataforma de gerenciamento de incidentes (DFIR-IRIS), onde já passou por uma análise primária realizada por uma inteligência artificial. Essa abordagem traz benefícios significativos para projetos futuros, como a definição de criticidade com base em padrões analisados pela IA.
+## Visão Geral do Projeto
 
-No futuro, com playbooks e runbooks alinhados ao modelo de IA, essa tecnologia pode auxiliar na tomada de decisões em cenários específicos, conforme o treinamento que recebeu. É possível, por exemplo, executar ações como isolar um host da rede, redefinir senhas ou bloquear um usuário. Uma vez que você possui um ambiente orquestrado e inteligente, a criatividade e o tempo se tornam os únicos limites para explorar as inúmeras possibilidades.
+Neste projeto, os alertas gerados pela ferramenta de segurança SIEM são enviados para uma plataforma de gerenciamento de incidentes (DFIR-IRIS), onde uma IA faz uma análise inicial.
+
+Com o tempo, playbooks e runbooks alinhados ao modelo de IA podem ajudar muito na tomada de decisões em cenários específicos, dependendo de como a IA foi treinada.
+
+### Funcionalidades Úteis para um SOC
+
+- **Tomada de decisão** baseada em playbooks e runbooks.
+- **Classificação do nível de ameaça** considerando vários fatores, como usuário, IP e correlação com ferramentas de CTI.
+
+Com um ambiente orquestrado e inteligente, você pode focar sua criatividade e tempo em tarefas mais estratégicas, aumentando a eficiência e a eficácia das operações de segurança.
+
 
 ### Arquitetura do Projeto
 ![Workflow](https://github.com/carlossilva9867/soc-opensource-ia/blob/main/IMG/diagrama.png)

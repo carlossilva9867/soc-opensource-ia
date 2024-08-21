@@ -67,7 +67,7 @@ Agora você pode subir o container
 ```
 
 
-### Ajuste Kibana
+### Ajuste do Kibana
 
 É necessário ajustar o parâmetro `encryption-keys` no Kibana. Para isso, identifique o ID do contêiner que está rodando o Kibana e gere as chaves de criptografia necessárias.
 

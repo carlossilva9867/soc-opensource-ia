@@ -1,5 +1,5 @@
 
-# Guia de Instalação do Projeto
+# Guia de Instalação do LAB
 Esta é a primeira parte do projeto, onde instalaremos os recursos e ferramentas necessários para o desenvolvimento do protótipo. Abaixo estão as instruções para configurar cada uma das máquinas virtuais e serviços envolvidos.
 
 ## Sumário

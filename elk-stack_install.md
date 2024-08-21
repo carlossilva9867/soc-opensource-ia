@@ -1,5 +1,5 @@
 # Docker-compose
-`
+```
 version: "3"
 services:
   setup:
@@ -47,4 +47,4 @@ services:
       # Change this to true if you want to sent
       # telemetry data to kibana developers
       - TELEMETRY_ENABLED=false
-`      
+```

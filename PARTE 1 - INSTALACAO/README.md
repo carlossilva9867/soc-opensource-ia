@@ -12,3 +12,8 @@ Esta é a primeira parte do projeto, onde instalaremos os recursos e ferramentas
 3. [VM03 - Ollama](https://github.com/carlossilva9867/soc-opensource-ia/blob/main/PARTE%201%20-%20INSTALACAO/004-ollama_install.md)
 4. [VM04 - Elastic Stack](https://github.com/carlossilva9867/soc-opensource-ia/blob/main/PARTE%201%20-%20INSTALACAO/003-elk-stack_install.md)
 
+## Referências
+
+- [Tutorial em Vídeo no YouTube](https://www.youtube.com/watch?v=_-4FGRYBp18)
+
+---

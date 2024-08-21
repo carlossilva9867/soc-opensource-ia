@@ -15,5 +15,6 @@ Esta é a primeira parte do projeto, onde instalaremos os recursos e ferramentas
 ## Referências
 
 - [Tutorial em Vídeo no YouTube](https://www.youtube.com/watch?v=_-4FGRYBp18)
+[![Tutorial em Vídeo](https://img.youtube.com/vi/_-4FGRYBp18/maxresdefault.jpg)](https://www.youtube.com/watch?v=_-4FGRYBp18)
 
 ---

@@ -10,6 +10,8 @@ version: "3"
 services:
   setup:
     image: docker.elastic.co/elasticsearch/elasticsearch:8.12.1
+    ports:
+    - 9200:9200
     environment:
       - ELASTIC_PASSWORD=${ELASTIC_PASSWORD}
       - KIBANA_PASSWORD=${KIBANA_PASSWORD}
@@ -84,6 +86,6 @@ docker exec -it [ID_KIBANA] ./bin/kibana-encryption-keys generate
 ```
 Configure as novas chaves no arquivo de configuração kibana.yml:
 ```
-docker exec -it [ID_KIBANA] /bin/bash -c "echo -e '\nxpack.encryptedSavedObjects.encryptionKey: ecaafedbd4daf82cf92f90d0f7b4fca3\nxpack.reporting.encryptionKey: c2e97cfc7218bb0ff79c63a0be0495de\nxpack.security.encryptionKey: 7e5528384de8ae29cfaf76bb5b928cf2\n' >> /config/kibana.yml"
+docker exec -it [ID_KIBANA] /bin/bash -c "echo -e '\nxpack.encryptedSavedObjects.encryptionKey: ecaafedbd4daf82cf92f90d0f7b4fca3\nxpack.reporting.encryptionKey: c2e97cfc7218bb0ff79c63a0be0495de\nxpack.security.encryptionKey: 7e5528384de8ae29cfaf76bb5b928cf2\n' >> config/kibana.yml"
 ```
 **Substitua [ID_KIBANA] pelo ID real do contêiner do Kibana obtido no passo anterior**

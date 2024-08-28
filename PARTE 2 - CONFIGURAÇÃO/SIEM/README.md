@@ -28,8 +28,8 @@ Nesta parte, abordamos a configuração do Elastic SIEM para o envio e análise 
    [![Formas de envio de log](https://img.youtube.com/vi/v1Wrn_CwStk/maxresdefault.jpg)](https://youtu.be/p9bnK8c76_U?feature=shared)
 
 3. **Instalação dos agentes (beat)**
-   - Auditbeatf
-   - Winlogbeat
+   - [Auditbeat](X)
+   - [Winlogbeat](X)
 ---
 ## Prática
 
@@ -43,9 +43,6 @@ Nesta parte, abordamos a configuração do Elastic SIEM para o envio e análise 
    * ... [detalhes sobre a geração de tickets no Iris]
 6. **Notificações:**
    * ... [detalhes sobre as notificações no Discord]
-
-### Demonstrações
-* ... [links para vídeos ou screencasts das demonstrações]
 
 
 ## Contribuições

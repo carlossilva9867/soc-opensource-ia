@@ -26,7 +26,7 @@ Com um ambiente orquestrado e inteligente, você pode focar sua criatividade e t
 
 Nesta seção, detalharemos os passos necessários para instalar todas as ferramentas e configurar o ambiente.
 
-### Parte II: Construção [EM DESENVOLVIMENTO]
+### Parte II: Construção
 Aqui, construiremos a solução integrada, conectando o SIEM, a IA e a plataforma de gerenciamento de incidentes. Também discutiremos como personalizar e expandir as funcionalidades para atender a diferentes necessidades.
 
 ---

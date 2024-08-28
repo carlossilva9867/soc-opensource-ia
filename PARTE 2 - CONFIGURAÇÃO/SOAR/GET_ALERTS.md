@@ -45,3 +45,6 @@ Body
   }
 }
 ``` 
+
+Video mostrando o processo de configuração no shuffle
+[![SHUFFLE COM ELASTIC](https://img.youtube.com/vi/LfXCBtRyodM/maxresdefault.jpg)](https://youtu.be/_pajqTdyLkU)

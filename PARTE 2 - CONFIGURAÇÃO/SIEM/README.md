@@ -33,13 +33,13 @@ Nesta parte, abordamos a configuração do Elastic SIEM para o envio e análise 
 ---
 ## Prática
 3. **Consumo de alertas:**
-   * ... [detalhes sobre a visualização e análise de alertas]
+   [![OLLAMA](https://img.youtube.com/vi/_pajqTdyLkU/maxresdefault.jpg)](https://youtu.be/_pajqTdyLkU)
 4. **Integração com IA:**
-   * ... [detalhes sobre a integração com ferramentas de IA]
-5. **Geração de tickets:**
-   * ... [detalhes sobre a geração de tickets no Iris]
+   [![OLLAMA](https://img.youtube.com/vi/_UNTCAl4pio/maxresdefault.jpg)](https://www.youtube.com/watch?v=_UNTCAl4pio)
+5. **Geração de tickets no DFIR-IRIS:**
+   [![OLLAMA](https://img.youtube.com/vi/hzK9muP8ST4/maxresdefault.jpg)](https://youtu.be/hzK9muP8ST4)
 6. **Notificações:**
-   * ... [detalhes sobre as notificações no Discord]
+   (EM BREVE)
 
 
 ## Contribuições

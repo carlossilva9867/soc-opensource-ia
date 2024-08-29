@@ -2,7 +2,7 @@ Este é o objeto principal do nosso workflow, que contém a query a ser utilizad
 
 **Observação**: Certifique-se de que o body atende às suas necessidades e que o índice existe no Elasticsearch.
 
-![Node_ELK](https://github.com/carlossilva9867/soc-opensource-ia/blob/main/IMG/node_elk_shuffle.png)
+![Node_ELK](https://github.com/carlossilva9867/soc-opensource-ia/blob/main/IMG/node_elk_shuffle.png?raw=true)
 
 
 **Nome do objeto**: GET_ALERTS\

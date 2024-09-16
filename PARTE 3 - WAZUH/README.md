@@ -2,6 +2,9 @@
 
 Você também pode importar o workflow que está no projeto que já vem pré configurado
 
+Video mostrando o processo de configuração do workflow
+[![Formas de envio de log](https://img.youtube.com/vi/oRefqoTl1LI/maxresdefault.jpg)](https://youtu.be/oRefqoTl1LI?feature=shared)
+
 ### node IA_ANALISE
 ```
 {% python %}

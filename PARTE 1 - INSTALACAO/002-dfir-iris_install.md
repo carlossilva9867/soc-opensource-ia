@@ -31,8 +31,8 @@ Edite o arquivo .env conforme necessário para ajustar as configurações do amb
 ### 4. Construindo e Inicializando os Contêineres
 Agora, construa e inicie os contêineres Docker utilizando docker-compose:
 ```
-docker compose build
-docker compose up
+docker-compose build
+docker-compose up
 ```
 Os contêineres serão construídos e iniciados, e o DFIR-IRIS estará disponível na sua máquina.
 

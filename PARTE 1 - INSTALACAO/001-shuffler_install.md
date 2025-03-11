@@ -19,8 +19,7 @@
     
     Crie o diretório para o banco de dados OpenSearch (Elasticsearch) e ajuste as permissões. Isso garante que o Shuffle tenha as permissões adequadas para acessar e gravar no diretório:
         
-    `mkdir shuffle-database
-    sudo chown -R 1000:1000 shuffle-database` 
+    `mkdir shuffle-database && sudo chown -R 1000:1000 shuffle-database` 
     
     O `1000:1000` refere-se ao ID de usuário e grupo que o Docker utiliza por padrão. Ajuste conforme necessário, se você estiver usando IDs diferentes.
     
